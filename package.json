@@ -1,0 +1,21 @@
+{
+  "name": "herokutest",
+  "version": "1.0.0",
+  "description": "this will test app deployment through heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/immanuelsiregar/uniassignment"
+  },
+  "author": "immanuel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
